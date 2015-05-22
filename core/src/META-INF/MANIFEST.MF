@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Class-Path: gdx-box2d-platform-1.4.1-natives-desktop.jar lwjgl-platfor
+ m-2.9.1-natives-linux.jar gdx-backend-lwjgl-1.4.1.jar gdx-controllers
+ -platform-1.4.1-natives-desktop.jar jorbis-0.0.17.jar jinput-platform
+ -2.0.5-natives-linux.jar lwjgl-platform-2.9.1-natives-osx.jar gdx-1.4
+ .1.jar lwjgl-2.9.1.jar jinput-platform-2.0.5-natives-osx.jar gdx-box2
+ d-1.4.1.jar lwjgl-platform-2.9.1-natives-windows.jar box2dlights-1.3.
+ jar jinput-platform-2.0.5-natives-windows.jar lwjgl_util-2.9.1.jar gd
+ x-ai-1.4.0.jar jutils-1.0.0.jar jinput-2.0.5.jar gdx-platform-1.4.1-n
+ atives-desktop.jar gdx-controllers-1.4.1.jar gdx-tools-1.4.1.jar jlay
+ er-1.0.1-gdx.jar gdx-controllers-desktop-1.4.1.jar
+Main-Class: com.theodore.endlessgame.desktop.DesktopLauncher
+

@@ -1,0 +1,17 @@
+Todo
+
+|----------|
+|-not done-|
+|----------|
+
+buy menu = + car menu + "areyousure" popup - garage menu
+settings menu = + audio settings + gameplay settings -
+background effects = + weather + paralax -
+particle effects + car exhaust + tire dust - 
+destruction = + environment(maybe) - car explosion
+balancing = + car types
+
+
+|----------|
+|---done---|
+|----------|

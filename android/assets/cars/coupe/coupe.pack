@@ -1,0 +1,54 @@
+
+coupe.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+orange
+  rotate: false
+  xy: 1, 520
+  size: 574, 173
+  orig: 574, 173
+  offset: 0, 0
+  index: -1
+blue
+  rotate: false
+  xy: 1, 347
+  size: 574, 171
+  orig: 574, 171
+  offset: 0, 0
+  index: -1
+green
+  rotate: false
+  xy: 577, 522
+  size: 574, 171
+  orig: 574, 171
+  offset: 0, 0
+  index: -1
+grey
+  rotate: false
+  xy: 1, 174
+  size: 574, 171
+  orig: 574, 171
+  offset: 0, 0
+  index: -1
+purple
+  rotate: false
+  xy: 577, 349
+  size: 574, 171
+  orig: 574, 171
+  offset: 0, 0
+  index: -1
+red
+  rotate: false
+  xy: 1153, 522
+  size: 574, 171
+  orig: 574, 171
+  offset: 0, 0
+  index: -1
+yellow
+  rotate: false
+  xy: 1, 1
+  size: 574, 171
+  orig: 574, 171
+  offset: 0, 0
+  index: -1

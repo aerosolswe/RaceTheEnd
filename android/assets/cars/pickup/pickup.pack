@@ -1,0 +1,54 @@
+
+pickup.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue
+  rotate: false
+  xy: 1, 592
+  size: 554, 195
+  orig: 554, 195
+  offset: 0, 0
+  index: -1
+green
+  rotate: false
+  xy: 1, 395
+  size: 554, 195
+  orig: 554, 195
+  offset: 0, 0
+  index: -1
+grey
+  rotate: false
+  xy: 557, 592
+  size: 554, 195
+  orig: 554, 195
+  offset: 0, 0
+  index: -1
+orange
+  rotate: false
+  xy: 1, 198
+  size: 554, 195
+  orig: 554, 195
+  offset: 0, 0
+  index: -1
+purple
+  rotate: false
+  xy: 557, 395
+  size: 554, 195
+  orig: 554, 195
+  offset: 0, 0
+  index: -1
+red
+  rotate: false
+  xy: 1113, 592
+  size: 554, 195
+  orig: 554, 195
+  offset: 0, 0
+  index: -1
+yellow
+  rotate: false
+  xy: 1, 1
+  size: 554, 195
+  orig: 554, 195
+  offset: 0, 0
+  index: -1

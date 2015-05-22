@@ -1,0 +1,54 @@
+
+race.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+red
+  rotate: false
+  xy: 1, 303
+  size: 648, 150
+  orig: 648, 150
+  offset: 0, 0
+  index: -1
+blue
+  rotate: false
+  xy: 1, 152
+  size: 648, 149
+  orig: 648, 149
+  offset: 0, 0
+  index: -1
+green
+  rotate: false
+  xy: 651, 304
+  size: 648, 149
+  orig: 648, 149
+  offset: 0, 0
+  index: -1
+grey
+  rotate: false
+  xy: 1, 1
+  size: 648, 149
+  orig: 648, 149
+  offset: 0, 0
+  index: -1
+orange
+  rotate: false
+  xy: 651, 153
+  size: 648, 149
+  orig: 648, 149
+  offset: 0, 0
+  index: -1
+purple
+  rotate: false
+  xy: 1301, 304
+  size: 648, 149
+  orig: 648, 149
+  offset: 0, 0
+  index: -1
+yellow
+  rotate: false
+  xy: 651, 2
+  size: 648, 149
+  orig: 648, 149
+  offset: 0, 0
+  index: -1

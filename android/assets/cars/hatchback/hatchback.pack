@@ -1,0 +1,54 @@
+
+hatchback.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue
+  rotate: false
+  xy: 1, 559
+  size: 521, 184
+  orig: 521, 184
+  offset: 0, 0
+  index: -1
+green
+  rotate: false
+  xy: 1, 373
+  size: 521, 184
+  orig: 521, 184
+  offset: 0, 0
+  index: -1
+grey
+  rotate: false
+  xy: 524, 559
+  size: 521, 184
+  orig: 521, 184
+  offset: 0, 0
+  index: -1
+orange
+  rotate: false
+  xy: 1, 187
+  size: 521, 184
+  orig: 521, 184
+  offset: 0, 0
+  index: -1
+purple
+  rotate: false
+  xy: 524, 373
+  size: 521, 184
+  orig: 521, 184
+  offset: 0, 0
+  index: -1
+red
+  rotate: false
+  xy: 1047, 559
+  size: 521, 184
+  orig: 521, 184
+  offset: 0, 0
+  index: -1
+yellow
+  rotate: false
+  xy: 1, 1
+  size: 521, 184
+  orig: 521, 184
+  offset: 0, 0
+  index: -1
